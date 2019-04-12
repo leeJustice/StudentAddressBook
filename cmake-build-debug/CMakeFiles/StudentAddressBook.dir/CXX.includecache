@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liyu/CLionProjects/StudentAddressBook/main.cpp
+iostream
+-
+src/Control.h
+/home/liyu/CLionProjects/StudentAddressBook/src/Control.h
+src/gui.h
+/home/liyu/CLionProjects/StudentAddressBook/src/gui.h
+
+/home/liyu/CLionProjects/StudentAddressBook/src/Control.h
+Student.h
+/home/liyu/CLionProjects/StudentAddressBook/src/Student.h
+vector
+-
+
+/home/liyu/CLionProjects/StudentAddressBook/src/Student.h
+string
+-
+
+/home/liyu/CLionProjects/StudentAddressBook/src/gui.h
+

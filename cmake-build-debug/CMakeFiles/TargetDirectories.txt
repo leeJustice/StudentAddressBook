@@ -1,0 +1,3 @@
+/home/liyu/CLionProjects/StudentAddressBook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liyu/CLionProjects/StudentAddressBook/cmake-build-debug/CMakeFiles/StudentAddressBook.dir
+/home/liyu/CLionProjects/StudentAddressBook/cmake-build-debug/CMakeFiles/edit_cache.dir
