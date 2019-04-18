@@ -1,6 +1,7 @@
 #include <iostream>
 #include "src/Control.h"
 #include "src/gui.h"
+#include<string>
 int main() {
     Control ctrl = Control();
     hello();
